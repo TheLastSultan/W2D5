@@ -2,6 +2,6 @@
 
 This file contains Abstract Data Structures:
 <br>
-_ LINKED LIST
-_ HAHSING SET
+_ LINKED LIST <br>
+_ HAHSING SET <br>
 _ HASH NUMS
